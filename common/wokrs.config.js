@@ -20,13 +20,13 @@ export const works = [
   //   ],
   // },
   // Crypto Coins Compare
-  // {
-  //   href: 'https://coins-eosin.vercel.app/',
-  //   title: 'Crypto Coins Compare',
-  //   img: 'crypto.jpg',
-  //   type: 'Web application',
-  //   tools: [SKILLS.scss, SKILLS.next, SKILLS.antdesign, SKILLS.reactquery, SKILLS.githubactions],
-  // },
+  {
+    href: 'https://crypto-coins-nine.vercel.app',
+    title: 'Crypto Coins Compare',
+    img: 'crypto.jpg',
+    type: 'Web application',
+    tools: [SKILLS.scss, SKILLS.next, SKILLS.antdesign, SKILLS.reactquery, SKILLS.githubactions],
+  },
   // // Seven Continents
   {
     href: 'https://volvoldis.github.io/7-continents/dist/',
