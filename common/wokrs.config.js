@@ -3,22 +3,22 @@ import { SKILLS } from '@/common/constants';
 export const works = [
   // JOBS
   // IT HUB
-  // {
-  //   href: 'https://ithub.vercel.app/',
-  //   title: 'IT Hub',
-  //   img: 'ithub.jpg',
-  //   type: 'Minimum Viable Product',
-  //   tools: [
-  //     SKILLS.express,
-  //     SKILLS.mongo,
-  //     SKILLS.react,
-  //     SKILLS.ts,
-  //     SKILLS.redux,
-  //     SKILLS.mantine,
-  //     SKILLS.webpack,
-  //     SKILLS.githubactions,
-  //   ],
-  // },
+  {
+    href: 'https://ithub.vercel.app',
+    title: 'IT Hub',
+    img: 'ithub.jpg',
+    type: 'Minimum Viable Product',
+    tools: [
+      SKILLS.express,
+      SKILLS.mongo,
+      SKILLS.react,
+      SKILLS.ts,
+      SKILLS.redux,
+      SKILLS.mantine,
+      SKILLS.webpack,
+      SKILLS.githubactions,
+    ],
+  },
   // Crypto Coins Compare
   {
     href: 'https://crypto-coins-nine.vercel.app',
